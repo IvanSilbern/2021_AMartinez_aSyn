@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+temp/
+plots/
+tables/
+_raw/
+Skyline/
+Skyline_peaks/
