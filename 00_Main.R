@@ -1,6 +1,6 @@
 
 
-# Sets of scripts in support to the paper
+# Set of scripts in support to the paper
 # "Low-expressing synucleinopathy mouse models based on oligomer formation and C-terminal truncation of α-synuclein"
 # https://www.frontiersin.org/articles/10.3389/fnins.2021.643391/full
 # by A. Martinez & I. Silbern et al
