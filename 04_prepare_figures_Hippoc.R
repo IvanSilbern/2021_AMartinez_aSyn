@@ -1,5 +1,7 @@
 local({
   
+  # prepare figures for alpha-synuclein peptide concentrations in hippocampuss
+  
   library(data.table)
   library(ggplot2)
   
@@ -42,7 +44,7 @@ local({
     
   }, x = aSyn_conc_mean_round, y = aSyn_conc_sd_round))]
   
-  # add P3 condition (peptide not detected
+  # add P3 condition (peptide not detected)
   temp_sum <- rbind(temp_sum, temp_sum[1])
   temp_sum[nrow(temp_sum), Condition := "P3"]
   temp_sum[nrow(temp_sum), Area_mean := 12.5]

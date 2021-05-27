@@ -1,5 +1,7 @@
 local({
   
+  # prepare figures for alpha-synuclein peptide concentrations in Striatum, Olfactory bulb and Substantia Nigra
+  
   library(data.table)
   library(ggplot2)
   

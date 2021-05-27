@@ -1,5 +1,7 @@
 local({
   
+  # check linearity of peptide quantification
+  
   library(data.table)
   library(stringr)
   library(ggplot2)
